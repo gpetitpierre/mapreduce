@@ -12,7 +12,6 @@ Requirements:
 
 Compilation:
 ------------
-
 From the folder containing pom.xml file:
 
       $ mvn clean install
